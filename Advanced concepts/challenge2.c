@@ -16,5 +16,7 @@ int main()
     printf("Type your name: ");
     fgets(name, 32, stdin);
     printf("Hello, %s \n", name);
+    printf("%d",'a');
     return (0);
 }
+
